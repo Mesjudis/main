@@ -1,4 +1,1 @@
-numpy
-opencv-python #or opencv-contrib-python
-cmake
-dlib
+shut up and get out of the way 
