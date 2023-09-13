@@ -24,4 +24,4 @@ Camera parameters and distorsion coefficients in Python, initialized as numpy ar
     dist_coeffs = np.array([
         [-0.03792548, 0.09233237, 0.00419088, 0.00317323, -0.15804257]
         ],
-        dtype="double")
+        dtype="double")er
